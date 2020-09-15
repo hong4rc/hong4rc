@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Anh Hồng</h1>
-<h3 align="center">A passionate backend developer from Vietnam</h3>
+<div align="center">
+	<br>
+	<img src="header.svg" width="800" height="400">
+	<br>
+</div>
 
 - 🤝 I’m looking for help with [node-facebook](https://github.com/hong4rc/node-facebook)
 
